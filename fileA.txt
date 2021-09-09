@@ -1,2 +1,2 @@
 "This is fileA" 
-"Newline on fileA" 
+"Newline on fileA - azure boards" 
